@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  line-height: 4;
+  color: #320;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  margin: 0 100px;
+}
+
+img {
+  width: 70%;
+  margin: auto;
+  display: block;
+  border: solid black 2px;
+  padding: 7px;
+  margin-top: 5px;
+}
+
+div {
+  width: 30%;
+  float: left;
+}
+
+iframe {
+  width: 50%;
+  margin: auto;
+  display: block;
+}
+
+nav li {
+  display: inline-block;
+  width: 18%;
+  font-size: 24px;
+  margin-left: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #e69900;
+}
