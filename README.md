@@ -1,6 +1,5 @@
 # :cat: [Shiva, Destroyer of Worlds](http://karenfreemansmith.github.io/shiva) :earth_africa:
 
-
 __Version 1.0.0: August 2, 2016__
 ## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
 
@@ -17,7 +16,7 @@ For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 * No bugs, only undocumented features!
 
 ### Technologies Used
-###### HTML
+###### HTML, CSS
 
 ### Legal
 *Licensed under the GNU General Public License v3.0*
