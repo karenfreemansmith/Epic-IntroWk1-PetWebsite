@@ -2,7 +2,7 @@
 Version 0.0.1: August 2, 2016
 by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-![screenshot of project running](screenshot.png)
+![screenshot of project running](screenshot.jpg)
 
 ## Description
 A pet website. Written for Epicodus Intro to Programming (Week 1) to learn basic page layout and css techniques.
