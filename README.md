@@ -1,4 +1,4 @@
-# :cat: [Shiva, Destroyer of Worlds](http://karenfreemansmith.github.io/shiva) :earth_africa:
+# :cat: [Shiva, Destroyer of Worlds](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite) :earth_africa:
 Version 0.0.1: August 2, 2016
 by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
@@ -11,23 +11,13 @@ A pet website. Written for Epicodus Intro to Programming (Week 1) to learn basic
 HTML, CSS
 
 ## Setup/Installation
-* visit link: [Name](url)
-_OR_
-* Clone diectory and...
+* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* _OR_
+* Clone diectory 
+* Open index.html in your favorite browser
 
 ## Support & Contact
 For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
-
-## Specifications
-### User Stories:
-* TBD
-
-### Database Diagram:
-![database diagram](http://ondras.zarovi.cz/sql/demo/)
-(database diagram from ...)
-
-### Technical Specifications:
-![BDD table](http://www.tablesgenerator.com/markdown_tables)
 
 ## Known Issues
 * None
