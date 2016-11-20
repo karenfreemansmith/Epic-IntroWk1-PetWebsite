@@ -1,24 +1,38 @@
 # :cat: [Shiva, Destroyer of Worlds](http://karenfreemansmith.github.io/shiva) :earth_africa:
+Version 0.0.1: August 2, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 1.0.0: August 2, 2016__
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+![screenshot of project running](screenshot.png)
 
-### Description
-__*Website for our cat*__
+## Description
+A pet website. Written for Epicodus Intro to Programming (Week 1) to learn basic page layout and css techniques.
 
-### Setup/Installation
-*None required. Clone or download and extract to use, or click link above to view.*
+## Technologies Used
+HTML, CSS
 
-### Support & Contact
-For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
+## Setup/Installation
+* visit link: [Name](url)
+_OR_
+* Clone diectory and...
 
-### Known Issues
-* No bugs, only undocumented features!
+## Support & Contact
+For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
-### Technologies Used
-###### HTML, CSS
+## Specifications
+### User Stories:
+* TBD
 
-### Legal
+### Database Diagram:
+![database diagram](http://ondras.zarovi.cz/sql/demo/)
+(database diagram from ...)
+
+### Technical Specifications:
+![BDD table](http://www.tablesgenerator.com/markdown_tables)
+
+## Known Issues
+* None
+
+## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 **_Karen Freeman-Smith_**
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
